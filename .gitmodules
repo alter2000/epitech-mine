@@ -1,0 +1,54 @@
+[submodule "year-1/CPE_matchstick_2018"]
+	path = year-1/CPE_matchstick_2018
+	url = git@github.com:alter2000/epitech-CPE_matchstick_2018
+[submodule "year-1/CPE_getnextline_2018"]
+	path = year-1/CPE_getnextline_2018
+	url = git@github.com:alter2000/epitech-CPE_getnextline_2018
+[submodule "year-1/CPE_BSQ_2018"]
+	path = year-1/CPE_BSQ_2018
+	url = git@github.com:alter2000/epitech-CPE_BSQ_2018
+[submodule "year-2/CNA_groundhog_2019"]
+	path = year-2/CNA_groundhog_2019
+	url = git@github.com:alter2000/epitech-CNA_groundhog_2019
+[submodule "year-1/PSU_42sh_2018"]
+	path = year-1/PSU_42sh_2018
+	url = git@github.com:alter2000/epitech-PSU_42sh_2018
+[submodule "year-2/FUN_wolfram_2019"]
+	path = year-2/FUN_wolfram_2019
+	url = git@github.com:alter2000/epitech-FUN_wolfram_2019
+[submodule "year-1/PSU_minishell1_2018"]
+	path = year-1/PSU_minishell1_2018
+	url = git@github.com:alter2000/epitech-PSU_minishell1_2018
+[submodule "year-2/FUN_imageCompressor_2019"]
+	path = year-2/FUN_imageCompressor_2019
+	url = git@github.com:alter2000/epitech-FUN_imageCompressor_2019
+[submodule "year-1/PSU_my_printf_2018"]
+	path = year-1/PSU_my_printf_2018
+	url = git@github.com:alter2000/epitech-PSU_my_printf_2018
+[submodule "year-2/NWP_myteams_2019"]
+	path = year-2/NWP_myteams_2019
+	url = git@github.com:alter2000/epitech-NWP_myteams_2019
+[submodule "year-1/PSU_my_sokoban_2018"]
+	path = year-1/PSU_my_sokoban_2018
+	url = git@github.com:alter2000/epitech-PSU_my_sokoban_2018
+[submodule "year-2/NWP_myftp_2019"]
+	path = year-2/NWP_myftp_2019
+	url = git@github.com:alter2000/epitech-NWP_myftp_2019
+[submodule "year-2/PSU_strace_2019"]
+	path = year-2/PSU_strace_2019
+	url = git@github.com:alter2000/epitech-PSU_strace_2019
+[submodule "year-1/WEB_epytodo_2018"]
+	path = year-1/WEB_epytodo_2018
+	url = git@github.com:alter2000/epitech-WEB_epytodo_2018
+[submodule "year-2/PSU_2019_malloc"]
+	path = year-2/PSU_2019_malloc
+	url = git@github.com:alter2000/epitech-PSU_2019_malloc
+[submodule "year-2/ASM_minilibc_2019"]
+	path = year-2/ASM_minilibc_2019
+	url = git@github.com:alter2000/epitech-ASM_minilibc_2019
+[submodule "year-2/OOP_nanotekspice_2019"]
+	path = year-2/OOP_nanotekspice_2019
+	url = git@github.com:alter2000/epitech-OOP_nanotekspice_2019
+[submodule "year-2/script_formatter_2019"]
+	path = year-2/script_formatter_2019
+	url = git@github.com:alter2000/epitech-script_formatter_2019
