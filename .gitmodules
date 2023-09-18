@@ -52,3 +52,18 @@
 [submodule "year-2/script_formatter_2019"]
 	path = year-2/script_formatter_2019
 	url = git@github.com:alter2000/epitech-script_formatter_2019
+[submodule "year-3/Bernstein"]
+	path = year-3/Bernstein
+	url = git@github.com:alter2000/Bernstein
+[submodule "year-3/RType"]
+	path = year-3/RType
+	url = git@github.com:alter2000/RType
+[submodule "year-3/whanos"]
+	path = year-3/whanos
+	url = git@github.com:alter2000/whanos
+[submodule "year-3/HAL"]
+	path = year-3/HAL
+	url = git@github.com:alter2000/HAL
+[submodule "year-3/koak"]
+	path = year-3/koak
+	url = git@github.com:alter2000/koak
